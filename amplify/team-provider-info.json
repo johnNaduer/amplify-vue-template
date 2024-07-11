@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyvuetemplate-dev-90f49",
       "StackId": "arn:aws:cloudformation:us-west-2:935766647953:stack/amplify-amplifyvuetemplate-dev-90f49/a99f8220-3f3e-11ef-83ce-0a3e52cc8583",
       "AmplifyAppId": "d36jkm9pb0tskx"
+    },
+    "categories": {
+      "function": {
+        "amplifyvuetemplate1b376c4f": {}
+      }
     }
   }
 }
