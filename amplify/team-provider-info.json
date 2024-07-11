@@ -13,7 +13,13 @@
     },
     "categories": {
       "function": {
-        "amplifyvuetemplate1b376c4f": {}
+        "amplifyvuetemplate1b376c4f": {
+          "deploymentBucketName": "amplify-amplifyvuetemplate-dev-90f49-deployment",
+          "s3Key": "amplify-builds/amplifyvuetemplate1b376c4f-4641627938646b7a6147-build.zip"
+        }
+      },
+      "api": {
+        "myrestapi": {}
       }
     }
   }
